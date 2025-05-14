@@ -28,6 +28,7 @@ Set up the real-time database.
 
 Replace the API key and database URL in the project.
 
+P.S. I have uploaded only CS and Designers of Pages as it were more than 1000 files of VS so best of luck just copy paste codes of designer and cs and run
 A sample screenshot of the Firebase data structure is included for reference.
 
 ![image](https://github.com/user-attachments/assets/e6f462bc-724c-4b1d-bf0f-67852d1e2952)
